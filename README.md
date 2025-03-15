@@ -1,3 +1,3 @@
 # CodimNet
 CodimNet:
-![示例图片](figures/AUC.png)
+(figures/AUC.png)
