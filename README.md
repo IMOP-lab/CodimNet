@@ -1,3 +1,3 @@
 # CodimNet
 CodimNet:
-(figures/AUC.png)
+!(figures/AUC.png)
