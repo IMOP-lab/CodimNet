@@ -28,6 +28,6 @@ We run CodimNet and previous methods on a system running Ubuntu 22.04, with Pyth
 
 ![](tables/Hold-Out%20Validation.jpg)
 
-Figure 4: Visualize the ND-PINN structure.
+Figure 4: Comparison of CodimNet and other methods for AD diagnosis on the CAUEEG dataset using a fixed hold-out validation approach with EEG data.
 
 
