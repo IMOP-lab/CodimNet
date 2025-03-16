@@ -56,6 +56,25 @@ Figure 7: Quantitative evaluation of model classification efficacy across AD EEG
 
 Figure 8: Quantitative evaluation of ND-PINN instantiation across distinct intermediate-layer constraints. 
 
+### Ablation Study Of Different Branches Of ND-PINN
+
+![](tables/Ablation%20study%20of%20Removed.jpg)
+
+Figure 9: Quantitative assessment of the impact of ND-PINN removal across distinct cortical branches on classification performance. 
+
+### Branch Different Model Ablation Study
+
+![](tables/Ablation%20study%20of%20Network.jpg)
+
+Figure 10: Quantitative classification performance across distinct recurrent neural network architectures instantiated within a multibranch paradigm. 
+
+### ND-PINN constrained different brain rhythm Ablation Study
+
+![](tables/Ablation%20study%20of%20Rhythmicity.jpg)
+
+Figure 11: Performance metrics of ND-PINN under differential brain rhythm constraints, evaluating the impact of rhythm-specific spectral ablation on AD EEG classification.  
+
+
 
 
 
