@@ -26,5 +26,6 @@ We run CodimNet and previous methods on a system running Ubuntu 22.04, with Pyth
 
 ### Use hold-out validation to compare overlapping versions of other methods in CAUEEG
 
-![](tables/Hold-Out Validation.jpg)
+![](tables/Hold-Out%20Validation.jpg)
+
 
