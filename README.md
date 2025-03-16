@@ -44,6 +44,18 @@ Figure 5: Comparison of CodimNet and other methods for AD diagnosis on the non-o
 
 Figure 6: Quantitative assessment of regional contributions to AD classification efficacy through cortical branch-specific ablation analysis.
 
+### ND-PINN Quantitative Ablation Study
+
+![](tables/Ablation%20study%20of%20Quantification.jpg)
+
+Figure 7: Quantitative evaluation of model classification efficacy across AD EEG tri-classification under varying instantiations of ND-PINN.
+
+### Ablation Study Of ND-PINN In Different Intermediate Layers
+
+![](tables/Ablation%20study%20of%20Layers.jpg)
+
+Figure 8: Quantitative evaluation of ND-PINN instantiation across distinct intermediate-layer constraints. 
+
 
 
 
