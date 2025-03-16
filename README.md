@@ -4,7 +4,7 @@
 
 Figure 1: Detailed network structure of our proposed CodimNet.
 
-## Methods
+## Methods(https://example.com)
 
 ### Multibranch
 
@@ -16,4 +16,4 @@ Figure 2: Visualize the multi-branch structure.
 
 ![](figures/ND-PINN.jpg)
 
-Figure 2: Visualize the ND-PINN structure.
+Figure 3: Visualize the ND-PINN structure.
