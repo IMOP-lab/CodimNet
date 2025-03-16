@@ -35,3 +35,16 @@ Figure 4: Comparison of CodimNet and other methods for AD diagnosis on the CAUEE
 ![](tables/Four-Fold%20Cross-Validation.jpg)
 
 Figure 5: Comparison of CodimNet and other methods for AD diagnosis on the non-overlapping version of the CAUEEG dataset using a four-fold cross-validation approach with EEG data.
+
+## Ablation study
+
+### Branch Ablation Study
+
+![](tables/Ablation%20study%20of%20Partitioned.jpg)
+
+Figure 6: Quantitative assessment of regional contributions to AD classification efficacy through cortical branch-specific ablation analysis.
+
+
+
+
+
