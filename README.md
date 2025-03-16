@@ -24,9 +24,10 @@ We run CodimNet and previous methods on a system running Ubuntu 22.04, with Pyth
 
 ## Experiment
 
-### Use hold-out validation to compare overlapping versions of other methods in CAUEEG
+### Models Evaluation Without Cross-Validation
 
 ![](tables/Hold-Out%20Validation.jpg)
 
+Figure 4: Visualize the ND-PINN structure.
 
 
