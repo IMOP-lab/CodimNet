@@ -22,6 +22,8 @@ Figure 3: Visualize the multi-branch structure.
 
 Figure 4: Visualize the ND-PINN structure.
 
+
+The proposed CodimNet is an advanced model for early diagnosis of Alzheimer's disease (AD) based on EEG.  This network combines multi-branch feature extraction, designed according to the anatomical segmentation of the international 10-20 system, with the Neurodynamic Physics-Informed Neural Network (ND-PINN) to better capture the characteristics of EEG signals in AD patients.  It outperforms nine other methods on the CAUEEG dataset, achieving state-of-the-art accuracy in AD identification.
 ## Installation
 
 We run CodimNet and previous methods on a system running Ubuntu 22.04, with Python 3.8, PyTorch 2.1.0, and CUDA 12.1.
