@@ -4,7 +4,7 @@
 
 Figure 1: Detailed network structure of our proposed CodimNet.
 
-## Methods(https://example.com)
+## Methods
 
 ### Multibranch
 
