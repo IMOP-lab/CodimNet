@@ -1,4 +1,4 @@
-# CodimNet
+# Electroencephalographic Biomarker-Guided Early Detection of Alzheimer’s Disease via Cortically Subdivided Neurodynamic PINN
 
 ![](figures/CodimNet.jpg)
 
