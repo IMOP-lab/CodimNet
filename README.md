@@ -82,6 +82,8 @@ Figure 11: Quantitative classification performance across distinct recurrent neu
 
 Figure 12: Performance metrics of ND-PINN under differential brain rhythm constraints, evaluating the impact of rhythm-specific spectral ablation on AD EEG classification.  
 
+The effectiveness of the proposed module was systematically evaluated through the four-fold cross-validation ablation experiment, and its applicability and advantages in related tasks were verified.
+
 ## Model Visualization
 
 ![](figures/spectrogram.png)
