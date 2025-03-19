@@ -86,6 +86,8 @@ The effectiveness of the proposed module was systematically evaluated through th
 
 ## Model Visualization
 
+In order to verify the effectiveness of CodimNet model in extracting EEG features from patients with Alzheimer's disease, a comparative analysis diagram and heat map including time-frequency graph, original PSD graph and ND-PINN treated PSD graph were constructed based on the hook function's forward propagation layer feature visualization technology.
+
 ![](figures/spectrogram.png)
 
 Figure 13: Comparison of time-frequency spectral features of middle-layer embeddings between CodimNet and RNN.
