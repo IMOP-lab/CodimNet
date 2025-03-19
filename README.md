@@ -36,6 +36,8 @@ We run CodimNet and previous methods on a system running Ubuntu 22.04, with Pyth
 
 Figure 5: Comparison of CodimNet and other methods for AD diagnosis on the CAUEEG dataset using a fixed hold-out validation approach with EEG data.
 
+CodimNet attaining peak performance across key classification metrics—Acc (76.27\%), AUC (85.27\%), and Sp (88.28\%)—outperforming its closest competitor, EEGNet, with a Se enhancement of 0.29 percentage points, an F1-score improvement of 2.07 percentage points, and a G-Mean augmentation of 1.89 percentage points, indicative of its enhanced robustness in mitigating class imbalance effects intrinsic to medical datasets.
+
 ### Models Evaluation Using Cross-Validation
 
 ![](tables/Four-Fold%20Cross-Validation.jpg)
